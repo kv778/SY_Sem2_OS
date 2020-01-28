@@ -13,16 +13,16 @@
 
             if [ "$answer" = "add" ]
             then
-                ./add.sh
+                ./Add.sh
             elif [ "$answer" = "list" ]
             then
-                ./list.sh
+                ./List.sh
             elif [ "$answer" = "find" ]
             then
-                ./find.sh
+                ./Search.sh
             elif [ "$answer" = "del" ]
             then
-                ./del.sh
+                ./Delete.sh
             elif [ "$answer" = "exit" ]
             then
                 exit=1
