@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
         BOOK="address-book.txt" 
 
@@ -6,4 +6,4 @@
         echo "Line Number:   Name  ;  Phone Number"
 
         # Print the book with line numbers and paused with less
-        nl --number-separator=":    " $BOOK | less 
+        nl --number-separator=":    " $BOOK

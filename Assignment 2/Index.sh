@@ -1,10 +1,8 @@
-#!/bin/sh
+#!/bin/bash
 
         # Name of address book
         BOOK="address-book.txt"
-
         exit=0
-
         while [ $exit -ne 1 ]
         do
             echo "What operation do you want?"

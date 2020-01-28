@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
      
         BOOK="address-book.txt"
 

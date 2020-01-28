@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
         
         # Name of address book
         BOOK="address-book.txt"
